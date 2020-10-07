@@ -13,6 +13,6 @@ I also help geeks by answering questions in the Quora Arab community.
 ```
 LinkedIn : m3t4n0y3t
 Twitter  : m3t4n0y3t
-My Blog  : https://hossam-hamdy.blogspot.com
+My Blog  : https://m3t4n0y3t810881813.wordpress.com/
 E-Mail   : m3t4n0y3t@gmail.com
 ```
