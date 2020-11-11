@@ -9,9 +9,11 @@
 
 - 🌱 I’m currently learning **Python for Offensive Security, C++, Data Structure.**
 
-- 👨‍💻 All of my projects are available at [Here 🙂](Here 🙂)
+- 👨‍💻 All of my projects are available at [https://github.com/m3t4n0y3t](https://github.com/m3t4n0y3t)
 
-- 📝 I regulary write articles on [https://m3t4n0y3t810881813.wordpress.com/blog/](https://m3t4n0y3t810881813.wordpress.com/blog/)
+- 📝 I regulary write articles on [https://m3t4n0y3t810881813.wordpress.com/](https://m3t4n0y3t810881813.wordpress.com/)
+
+- 💬 Ask me about **Any thing you want @ Quora /Hossam-Hamdy**
 
 - 📫 How to reach me **m3t4n0y3t@gmail.com // hossam192216@fci.bu.edu.eg**
 
@@ -27,6 +29,7 @@
 <a href="https://linkedin.com/in/m3t4n0y3t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="m3t4n0y3t" height="30" width="40" /></a>
 <a href="https://fb.com/m3t4n00y3t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="m3t4n00y3t" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hossam_hamdy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hossam_hamdy" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile//m3t4n0y3t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="/m3t4n0y3t" height="30" width="40" /></a>
 <a href="/https://m3t4n0y3t810881813.wordpress.com/blog/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://m3t4n0y3t810881813.wordpress.com/blog/" height="30" width="40" /></a>
 </p>
 
