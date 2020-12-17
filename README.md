@@ -15,6 +15,9 @@
 
 ### 📕 My Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [XOR Encryption in Python3](https://nullx33f.wordpress.com/2020/11/15/xor-encryption-in-python3/)
+- [Python For General Purposes](https://nullx33f.wordpress.com/2020/10/15/python-for-general-purpose/)
+- [Python For Offensive Security](https://nullx33f.wordpress.com/2020/10/07/resources-for-python-offensive-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
