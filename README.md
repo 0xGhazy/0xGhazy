@@ -24,6 +24,7 @@
 <a href="https://fb.com/nullx33f" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nullx33f" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/m3t4n0y3t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="m3t4n0y3t" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nullx33f" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="nullx33f" height="30" width="40" /></a>
+ <br>
 <a href="/https://nullx33f.wordpress.com/blog/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://nullx33f.wordpress.com/blog/" height="30" width="40" /></a>
 </p>
 
