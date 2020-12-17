@@ -15,9 +15,6 @@
 
 ### 📕 My Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<a href="https://nullx33f.wordpress.com/2020/11/15/xor-encryption-in-python3/">XOR Encryption in Python3</a><br>
-<a href="https://nullx33f.wordpress.com/2020/10/15/python-for-general-purpose/">Python For General Purposes</a><br>
-<a href="https://nullx33f.wordpress.com/2020/10/15/python-for-general-purpose/">Python For General Purposes</a><br>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
