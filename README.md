@@ -47,21 +47,21 @@ I write articles on my personal blog, including articles on teaching Python, res
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- ### 🔭 I’m currently working on [Ghazy HTTP Reversed Shell](https://github.com/nullx33F/Ghazy)  
+- #### 🔭 I’m currently working on [Ghazy HTTP Reversed Shell](https://github.com/nullx33F/Ghazy)  
   
 
-- ### 🌱 I’m currently learning C, Python, Java and Cybersecurity.  
+- #### 🌱 I’m currently learning C, Python, Java and Cybersecurity.  
   
 
-- ### ❓ Ask me about anything related to Blogging, Python and Cybersecurity Awareness.  
+- #### ❓ Ask me about anything related to Blogging, Python and Cybersecurity Awareness.  
   
 
-- ### ⚡ Fun fact: I think I'm not funny at all even people tell me the opposite.  
+- #### ⚡ Fun fact: I think I'm not funny at all even people tell me the opposite.  
 
 
 </td><td valign="top" width="50%">
 
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" align="left" height="300" width="500" />  
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" align="left" height="300" width="490" />  
 
 
 </td></tr></table>  
@@ -102,7 +102,8 @@ I write articles on my personal blog, including articles on teaching Python, res
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=nullx33F&&style=flat-square)</a> </p>
+![Profile views counter](https://komarev.com/ghpvc/?username=nullx33F&&style=flat-square)  <br/>
+<p align="left"> <a href="https://twitter.com/nullx33f" target="blank"><img src="https://img.shields.io/twitter/follow/nullx33f?logo=twitter&style=for-the-badge" alt="nullx33f" /></a> </p>
 
 <br/>  
 
