@@ -102,8 +102,7 @@ I write articles on my personal blog, including articles on teaching Python, res
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-<p align="left"> <a href="https://twitter.com/nullx33f" target="blank"><img src="https://img.shields.io/twitter/follow/nullx33f?logo=twitter&style=for-the-badge" alt="nullx33f" /></a> </p>
+![Profile views counter](https://komarev.com/ghpvc/?username=nullx33F&&style=flat-square)</a> </p>
 
 <br/>  
 
