@@ -1,17 +1,41 @@
-<h1 align="center">Hi 👋, I'm Hossam Hamdy</h1>
-<h3 align="center">A Passionate Offensive-Security Researcher and Python Developer</h3>
+## Hey 👋, I'm Hossam Hamdy!  
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nullx33f&label=Profile%20views&color=0e75b6&style=flat" alt="nullx33f" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nullx33f" target="blank"><img src="https://img.shields.io/twitter/follow/nullx33f?logo=twitter&style=for-the-badge" alt="nullx33f" /></a> </p>
 
-- 🔭 I’m currently working on **Ghazy Red Team Toolkit**
+### [-] My Links  
+<div align="center">
+<a href="https://github.com/nullx33F" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/nullx33F" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/nullx33F" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/nullx33F" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/nullx33F" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/nullx33F" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-- 📝 I regularly write articles on [https://nullx33f.wordpress.com](https://nullx33f.wordpress.com)
 
-- 📫 How to reach me **m3t4n0y3t@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nullx33F](https://www.linkedin.com/in/nullx33F)
+### Glad to see you here!  
+Hi, I'm a computer science student @ BFCAI, I'm passionate about cybersecurity specially Red Teaming and Network Security.
+I'm a great believer in "Your value in life is in the extent that you are an inspiration to others",
+So I always be proactive in providing help, support, encouragement and positive energy as much as I can.
+
+I write articles on my personal blog, including articles on teaching Python, resources for learning cybersecurity,and discussion of the scripts that I have programmed. I also help geeks by answering questions in the Quora Arab community.
+<br/>  
+
 
 ### 📕 My Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -20,19 +44,71 @@
 - [Python For Offensive Security](https://nullx33f.wordpress.com/2020/10/07/resources-for-python-offensive-programming/)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nullx33f" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nullx33f" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nullx33f" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nullx33f" height="30" width="40" /></a>
-<a href="https://fb.com/nullx33f" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nullx33f" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/m3t4n0y3t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="m3t4n0y3t" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nullx33f" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="nullx33f" height="30" width="40" /></a>
-<a href="/https://nullx33f.wordpress.com/blog/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://nullx33f.wordpress.com/blog/" height="30" width="40" /></a>
-</p>
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nullx33f&show_icons=true&locale=en&layout=compact" alt="nullx33f" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nullx33f&show_icons=true&locale=en" alt="nullx33f" /></p>
+- ### 🔭 I’m currently working on [Ghazy HTTP Reversed Shell](https://github.com/nullx33F/Ghazy)  
+  
+
+- ### 🌱 I’m currently learning C, Python, Java and Cybersecurity.  
+  
+
+- ### ❓ Ask me about anything related to Blogging, Python and Cybersecurity Awareness.  
+  
+
+- ### ⚡ Fun fact: I think I'm not funny at all even people tell me the opposite.  
+
+
+</td><td valign="top" width="50%">
+
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" align="left" height="300" width="500" />  
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Languages and Tools  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+</div>  
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nullx33F&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullx33F&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+<p align="left"> <a href="https://twitter.com/nullx33f" target="blank"><img src="https://img.shields.io/twitter/follow/nullx33f?logo=twitter&style=for-the-badge" alt="nullx33f" /></a> </p>
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
