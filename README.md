@@ -38,7 +38,7 @@ I write articles on my personal blog, including articles on teaching Python, res
 ### 📕 My Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [XOR Encryption in Python3](https://nullx33f.wordpress.com/2020/11/15/xor-encryption-in-python3/)
-- [Learning Python Roadmap 🐍](https://nullx33f.wordpress.com/2020/10/15/python-for-general-purpose/)
+- [Learning Python Roadmap](https://nullx33f.wordpress.com/2020/10/15/python-for-general-purpose/)
 - [Python For Offensive Security](https://nullx33f.wordpress.com/2020/10/07/resources-for-python-offensive-programming/)
 <!-- BLOG-POST-LIST:END -->
 
