@@ -1,6 +1,6 @@
 
 ## Hey 👋, I'm Hossam Hamdy!  
-### Offensive-Security Researcher || Python Developer || Blogger
+### Offensive-Security Enthusiast  || Python Developer || Blogger
 
 
 
