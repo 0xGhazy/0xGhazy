@@ -98,7 +98,7 @@ I write articles on my personal blog, including articles on teaching Python, res
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=nullx33F&&style=flat-square)  <br/>
-<p align="left"> <a href="https://twitter.com/0xGhazy" target="blank"><img src="https://img.shields.io/twitter/follow/nullx33f?logo=twitter&style=for-the-badge" alt="0xGhazy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xGhazy" target="blank"><img src="https://img.shields.io/twitter/follow/0xGhazy?logo=twitter&style=for-the-badge" alt="0xGhazy" /></a> </p>
 
 <br/>  
 
