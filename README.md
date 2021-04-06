@@ -52,8 +52,11 @@ So I always be proactive in providing help and support as much as I can.
 <a href="https://github.com/0xGhazy?tab=followers">
 <img src="https://img.shields.io/github/followers/0xGhazy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 </a>
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/0xGhazy/0xGhazy?logo=Github&style=for-the-badge">
 <a href="http://twitter.com/0xGhazy">
 <img src="https://img.shields.io/twitter/follow/0xGhazy?label=Twitter&logo=twitter&style=for-the-badge" />
 </a>
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCoDygg4KQMtCi_rpi9V35Pw?logoColor=Hossam%20Hamdy&style=for-the-badge">
+
 </p>
+
