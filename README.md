@@ -1,8 +1,4 @@
 
-<!-- Header-Photo section -->
-![ABD-Elhameed](https://user-images.githubusercontent.com/60070427/113652641-73f9a980-9694-11eb-82e4-89e5db1118bb.jpg)
-----
-
 <!-- introduction -->
 ## As salaam Alaikum <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">, Glad to see you here.
 My name is Hossam Hamdy ,and I'm a computer science student @ BFCAI, I'm passionate about cybersecurity specially Red Teaming and Network Security.
@@ -49,9 +45,9 @@ So I always be proactive in providing help and support as much as I can.
 ## Github Stats and Analysis
 <!-- Github Stats -->
 <p align="center">
-<img width = "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xGhazy&show_icons=true&theme=tokyonight"/>
-<img width = "100%" src="https://github-readme-stats.vercel.app/api?username=0xGhazy&show_icons=true&theme=tokyonight"/>
-<img width = "100%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xGhazy&theme=tokyonight"/>
+<img width = "70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xGhazy&show_icons=true&theme=tokyonight" /> <br />
+<img width = "70%" src="https://github-readme-stats.vercel.app/api?username=0xGhazy&show_icons=true&theme=tokyonight" /> <br />
+<img width = "70%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xGhazy&theme=tokyonight" /> <br />
 <!-- Followers Counter-->
 <a href="https://github.com/0xGhazy?tab=followers">
 <img src="https://img.shields.io/github/followers/0xGhazy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
