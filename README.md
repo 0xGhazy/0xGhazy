@@ -22,7 +22,6 @@ So I always be proactive in providing help and support as much as I can.
 
 ### 📕 (0xGhazy) Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [XOR Encryption in Python3](https://0xghazy.wordpress.com/2020/11/15/xor-encryption-in-python3/)
 - [Learning Python Roadmap](https://0xghazy.wordpress.com/2020/10/15/python-for-general-purpose/)
 - [Python For Offensive Security](https://0xghazy.wordpress.com/2020/10/07/resources-for-python-offensive-programming/)
 <!-- BLOG-POST-LIST:END -->
