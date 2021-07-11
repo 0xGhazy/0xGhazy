@@ -22,6 +22,7 @@ So I always be proactive in providing help and support as much as I can.
 
 ### 📕 (0xGhazy) Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux Basics for Hackers](https://0xghazy.wordpress.com/2021/07/10/linux-basics-for-hackers/)
 - [Learning Python Roadmap](https://0xghazy.wordpress.com/2020/10/15/python-for-general-purpose/)
 - [Python For Offensive Security](https://0xghazy.wordpress.com/2020/10/07/resources-for-python-offensive-programming/)
 <!-- BLOG-POST-LIST:END -->
