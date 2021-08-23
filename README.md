@@ -1,6 +1,6 @@
 
 <!-- introduction -->
-## Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">, Glad to see you here.
+## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">, Glad to see you here.
 My name is Hossam Hamdy ,and I'm a computer science student @ BFCAI, I'm passionate about cybersecurity specially Red Teaming and Network Security.
 I'm a great believer in "Your value in life is in the extent that you are an inspiration to others",
 So I always be proactive in providing help and support as much as I can.
