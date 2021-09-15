@@ -1,10 +1,3 @@
-
-<!-- introduction -->
-<div align="center" style="font-size:40px;">
- Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">, Glad to see you here.
-</div>
-
----
 ### 0xghazy@git~$ whoami
 
 Computer science student with big passion in network security, penetration testing and software development. I always try to develop my skills in modern technology, whether in development or security,
