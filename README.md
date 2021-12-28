@@ -38,6 +38,7 @@ I believe that "Your value in life lies in the extent to which you belong to oth
 
 ### (0xGhazy Blog) posts
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe: Vulnversity WriteUp](https://0xghazy.wordpress.com/2021/11/05/tryhackme-vulnversity-writeup/)
 - [Learning Python Roadmap](https://0xghazy.wordpress.com/2020/10/15/python-for-general-purpose/)
 - [Python For Offensive Security Purposes](https://0xghazy.wordpress.com/2020/10/07/resources-for-python-offensive-programming/)
 <!-- BLOG-POST-LIST:END -->
