@@ -38,7 +38,7 @@ I believe that "Your value in life lies in the extent to which you belong to oth
 <!-- BLOG-POST-LIST:START -->
 - [Protected: Late | HackTheBox](https://0xghazy.wordpress.com/2022/06/13/late-hackthebox/)
 - [__init__ vs __new__ which one is the constructor?](https://0xghazy.wordpress.com/2022/04/14/__init-vs-__new__-which-one-is-constructor/)
-- [Protected: Paper | HackTheBox](https://0xghazy.wordpress.com/2022/03/16/paper-hackthebox/)
+- [Paper | HackTheBox](https://0xghazy.wordpress.com/2022/03/16/paper-hackthebox/)
 - [DEATHNOTE | VulnHub](https://0xghazy.wordpress.com/2022/01/29/deathnote-vulnhub/)
 - [Vulnversity | TryHackMe](https://0xghazy.wordpress.com/2021/11/05/tryhackme-vulnversity-writeup/)
 <!-- BLOG-POST-LIST:END -->
