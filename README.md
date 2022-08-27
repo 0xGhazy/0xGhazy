@@ -37,15 +37,14 @@ Also, have a passion to learn Cybersecurity and writing technical posts in diffe
 
 <a href="https://twitter.com/0xGhazy" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://ar.quora.com/profile/Hossam-Hamdy" target="_blank"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/h0ssamhamdy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-"></a>
+<a href="https://www.linkedin.com/in/h0ssamhamdy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://web.facebook.com/0xGhazy" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://github.com/0xGhazy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-"></a>
+<a href="https://github.com/0xGhazy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://0xghazy.wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
-<a href="https://www.youtube.com/c/HossamHamdy0xGhazy" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-"></a>
+<a href="https://www.youtube.com/c/HossamHamdy0xGhazy" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+
 </div>
+
 
 
 ### Projects
