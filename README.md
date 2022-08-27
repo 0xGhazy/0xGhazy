@@ -60,9 +60,11 @@ Also, have a passion to learn Cybersecurity and writing technical posts in diffe
 
 ### (0xGhazy Blog) Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Linux Basics for Hackers](https://0xghazy.wordpress.com/2021/07/10/linux-basics-for-hackers/)
-- [Learning Python Roadmap](https://0xghazy.wordpress.com/2020/10/15/python-for-general-purpose/)
-- [Python For Offensive Security](https://0xghazy.wordpress.com/2020/10/07/resources-for-python-offensive-programming/)
+- [Late | HackTheBox](https://0xghazy.wordpress.com/2022/06/13/late-hackthebox/)
+- [__init__ vs __new__ which one is the constructor?](https://0xghazy.wordpress.com/2022/04/14/__init-vs-__new__-which-one-is-constructor/)
+- [Paper | HackTheBox](https://0xghazy.wordpress.com/2022/03/16/paper-hackthebox/)
+- [DEATHNOTE | VulnHub](https://0xghazy.wordpress.com/2022/01/29/deathnote-vulnhub/)
+- [Vulnversity | TryHackMe](https://0xghazy.wordpress.com/2021/11/05/tryhackme-vulnversity-writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
