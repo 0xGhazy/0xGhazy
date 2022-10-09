@@ -60,11 +60,11 @@ Also, have a passion to learn Cybersecurity and writing technical posts in diffe
 
 ### (0xGhazy Blog) Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Singleton Design Pattern](https://0xghazy.wordpress.com/2022/10/10/singleton-design-pattern/)
 - [Git and GitHub Kickstart – Part 1](https://0xghazy.wordpress.com/2022/10/03/git-and-github-kickstart-part-1/)
 - [Late | HackTheBox](https://0xghazy.wordpress.com/2022/06/13/late-hackthebox/)
 - [__init__ vs __new__ which one is the constructor?](https://0xghazy.wordpress.com/2022/04/14/__init-vs-__new__-which-one-is-constructor/)
 - [Paper | HackTheBox](https://0xghazy.wordpress.com/2022/03/16/paper-hackthebox/)
-- [DEATHNOTE | VulnHub](https://0xghazy.wordpress.com/2022/01/29/deathnote-vulnhub/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
