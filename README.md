@@ -1,16 +1,8 @@
-<<<<<<< HEAD
-=======
-![510964-Richard-P-Feynman-Quote-What-I-cannot-create-I-do-not-understand](https://user-images.githubusercontent.com/60070427/187035212-5189553a-cbc8-476f-a220-b8a995d5685b.jpg)
->>>>>>> 8531e5414a6fd812ff47156437139344f67bc2e3
 <div align="center" style="font-size:30px">
 
 ## Hi 👋, I'm Hossam Hamdy (aka 0xGhazy)
 
-<<<<<<< HEAD
 ### Software Enginner | Content Creator
-=======
-### Software Developer | Content Creator
->>>>>>> 8531e5414a6fd812ff47156437139344f67bc2e3
 
 </div>
 
@@ -19,11 +11,7 @@
 
 ### 0xghazy@git~$ whoami
 Interested in learning how things work in depth to form a good picture of them.
-<<<<<<< HEAD
 That is why I find my passion in writing code, learning DSA, OOP, Designs Patterns, and how to write Readable and Maintainable Code.
-=======
- That is why I find my passion in writing code, learning DSA, OOP, Designs Patterns, and how to write Readable and Maintainable Code.
->>>>>>> 8531e5414a6fd812ff47156437139344f67bc2e3
 
 Also, have a passion to learn Cybersecurity and writing technical posts in different categories such as programming, book reviews, HackTheBox writeups, and building Projects.
 <br>
@@ -32,16 +20,7 @@ Also, have a passion to learn Cybersecurity and writing technical posts in diffe
 
 <div align="center">   
 <br>
-<<<<<<< HEAD
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-=======
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
-<a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="60" height="60"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> </a>
-
->>>>>>> 8531e5414a6fd812ff47156437139344f67bc2e3
 <br>
 </div>
 
@@ -61,36 +40,23 @@ Also, have a passion to learn Cybersecurity and writing technical posts in diffe
 </div>
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 8531e5414a6fd812ff47156437139344f67bc2e3
 ### Projects
 
 <div align="center">
 
-<<<<<<< HEAD
 |  Project                      |  Repository Link                                    | Overview | Status |
 | :-------------:               | :-------------:                                     | :------: | :---:  |
-|  PyPass               | [0xGhazyPyPass](https://github.com/0xGhazy/PyPass) | A free open source application to keep all your passwords in one safe place with a high level of privacy| 🟩 Released |
+|  PyPass               | [0xGhazyPyPass](https://github.com/0xGhazy/PyPass) | A free open source application to keep all your passwords in one safe place with a high level of privacy| 🟩 Release |
 |  Fateh-Framework      | [0xGhazy/Fateh-Framework](https://github.com/0xGhazy/Fateh-Framework)| Fateh-Framework is a simple C2 (Command & Control) tool that attacking windows/Linux machines.|🟥 Need Maintenance |
 |  Kaleem      | [Taro Team](https://github.com/Taro-Graduation-Project) | Kaleem is a web application that helps deaf people to get involved in the work environment which provides them with the ability to communicate with others in an easy way| 🟧Working on |
-=======
-|  Project                      |  Repository Link                                    | Overview |
-| :-------------:               | :-------------:                                     | :------: |
-|  PyPass               |  [0xGhazyPyPass](https://github.com/0xGhazy/PyPass) | A free open source application to keep all your passwords in one safe place with a high level of privacy|
-|  Fateh-Framework      |  [0xGhazy/Fateh-Framework](https://github.com/0xGhazy/Fateh-Framework)     | Fateh-Framework is a simple C2 (Command & Control) tool that attacking windows/Linux machines.|        |
->>>>>>> 8531e5414a6fd812ff47156437139344f67bc2e3
 
 </div><br>
 
 ### (0xGhazy Blog) Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Singleton Design Pattern](https://0xghazy.wordpress.com/2022/10/10/singleton-design-pattern/)
-- [Git and GitHub Kickstart – Part 1](https://0xghazy.wordpress.com/2022/10/03/git-and-github-kickstart-part-1/)
-- [Late | HackTheBox](https://0xghazy.wordpress.com/2022/06/13/late-hackthebox/)
-- [__init__ vs __new__ which one is the constructor?](https://0xghazy.wordpress.com/2022/04/14/__init-vs-__new__-which-one-is-constructor/)
-- [Paper | HackTheBox](https://0xghazy.wordpress.com/2022/03/16/paper-hackthebox/)
+- [Linux Basics for Hackers](https://0xghazy.wordpress.com/2021/07/10/linux-basics-for-hackers/)
+- [Learning Python Roadmap](https://0xghazy.wordpress.com/2020/10/15/python-for-general-purpose/)
+- [Python For Offensive Security](https://0xghazy.wordpress.com/2020/10/07/resources-for-python-offensive-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -110,8 +76,4 @@ Also, have a passion to learn Cybersecurity and writing technical posts in diffe
 <img src="https://img.shields.io/github/followers/0xGhazy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" >
 <img src="https://img.shields.io/twitter/follow/0xGhazy?label=Twitter&logo=twitter&style=for-the-badge" />
 <img src="https://img.shields.io/youtube/channel/subscribers/UCePX533CZyOpMyGGZqxJtAg?style=for-the-badge">
-<<<<<<< HEAD
 </div>
-=======
-</div>
->>>>>>> 8531e5414a6fd812ff47156437139344f67bc2e3
