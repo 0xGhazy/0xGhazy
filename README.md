@@ -57,9 +57,10 @@ Also, have a passion to learn Cybersecurity and writing technical posts in diffe
 
 ### (0xGhazy Blog) Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Linux Basics for Hackers](https://0xghazy.wordpress.com/2021/07/10/linux-basics-for-hackers/)
-- [Learning Python Roadmap](https://0xghazy.wordpress.com/2020/10/15/python-for-general-purpose/)
-- [Python For Offensive Security](https://0xghazy.wordpress.com/2020/10/07/resources-for-python-offensive-programming/)
+- [Authentication with JavaScript Web Tokens &lpar;JWTs&rpar;](https://0xghazy.github.io/graduation%20project%20diary/python/cybersecurity/Authentication-with-JavaScript-Web-Tokens-(JWTs)/)
+- [Creating Simple REST APIv3 Using Python Flask, SQLite3, and Postman](https://0xghazy.github.io/graduation%20project%20diary/python/Creating-Simple-API-Using-Python-Flask/)
+- [SINGLETON DESIGN PATTERN](https://0xghazy.github.io/graduation%20project%20diary/SINGLETON-DESIGN-PATTERN/)
+- [Git And GitHub kickstart - Part 1](https://0xghazy.github.io/graduation%20project%20diary/Git-And-GitHub-kickstart-Part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
