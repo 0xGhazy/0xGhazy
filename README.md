@@ -57,7 +57,7 @@ Also, have a passion to learn Cybersecurity and writing technical posts in diffe
 
 ### (0xGhazy Blog) Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Head First Java 5th Edition Review](https://0xghazy.github.io/books%20review/Head-First-Java-5th-Edition-Review/)
+- [Head First Java 3rd Edition Review](https://0xghazy.github.io/books%20review/Head-First-Java-3rd-Edition-Review/)
 - [Authentication with JavaScript Web Tokens &lpar;JWTs&rpar;](https://0xghazy.github.io/graduation%20project%20diary/Authentication-with-JavaScript-Web-Tokens-(JWTs)/)
 - [Creating Simple REST APIv3 Using Python Flask, SQLite3, and Postman](https://0xghazy.github.io/graduation%20project%20diary/Creating-Simple-API-Using-Python-Flask/)
 - [SINGLETON DESIGN PATTERN](https://0xghazy.github.io/graduation%20project%20diary/SINGLETON-DESIGN-PATTERN/)
