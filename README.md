@@ -60,8 +60,8 @@ Also, have a passion to learn Cybersecurity and writing technical posts in diffe
 - [PyPass - Your Password Manager and Files Vault Application](https://0xghazy.github.io/projects/PyPass-Password-Manager-Application/)
 - [Head First Java 3rd Edition Review](https://0xghazy.github.io/reviews/Head-First-Java-3rd-Edition-Review/)
 - [Authentication with JavaScript Web Tokens &lpar;JWTs&rpar;](https://0xghazy.github.io/graduation%20project%20diary/Authentication-with-JavaScript-Web-Tokens-(JWTs)/)
+- [Head First Object Oriented analysis &amp;amp; Design Notes](https://0xghazy.github.io/learning%20notes/Head-First-Object-Orienred-Analysis-and-Design-Book/)
 - [Creating Simple REST APIv3 Using Python Flask, SQLite3, and Postman](https://0xghazy.github.io/graduation%20project%20diary/Creating-Simple-API-Using-Python-Flask/)
-- [SINGLETON DESIGN PATTERN](https://0xghazy.github.io/graduation%20project%20diary/SINGLETON-DESIGN-PATTERN/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
