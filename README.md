@@ -62,10 +62,6 @@ Also, have a passion to learn Cybersecurity and writing technical posts in diffe
 - [Head First Java 3rd Edition Review](https://0xghazy.github.io/reviews/Head-First-Java-3rd-Edition-Review/)
 - [Authentication with JavaScript Web Tokens &lpar;JWTs&rpar;](https://0xghazy.github.io/graduation%20project%20diary/Authentication-with-JavaScript-Web-Tokens-(JWTs)/)
 - [Creating Simple REST APIv3 Using Python Flask, SQLite3, and Postman](https://0xghazy.github.io/graduation%20project%20diary/Creating-Simple-API-Using-Python-Flask/)
-- [Paper | HackTheBox](https://0xghazy.github.io/security/paper-hackthebox/)
-- [Late	| HackTheBox](https://0xghazy.github.io/security/late-hackthebox/)
-- [DEATHNOTE Box | VulnHub](https://0xghazy.github.io/security/DEATHNOTE-VulnHub/)
-- [Vulnversity |	TryHackMe](https://0xghazy.github.io/security/Vulnversity-TryHackMe/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
