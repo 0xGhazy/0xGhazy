@@ -57,11 +57,11 @@ Also, have a passion to learn Cybersecurity and writing technical posts in diffe
 
 ### (0xGhazy Blog) Posts:
 <!-- BLOG-POST-LIST:START -->
+- [O’Reilly REST API Design Rulebook Notes](https://0xghazy.github.io/notes/o'reilly-rest-api-design-rulebook-notes/)
 - [SQL Notes](https://0xghazy.github.io/notes/sql-cheat-sheet/)
 - [Builder Design Pattern](https://0xghazy.github.io/design%20patterns/Builder-design-pattern/)
 - [Problem Solving Notes](https://0xghazy.github.io/notes/Problem-Solving-Notes/)
 - [Head First Object Oriented analysis &amp;amp; Design Notes](https://0xghazy.github.io/notes/Head-First-Object-Oriented-Analysis-and-Design-Book/)
-- [PyPass - Your Password Manager and Files Vault Application](https://0xghazy.github.io/posts/PyPass-Password-Manager-Application/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
