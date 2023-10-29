@@ -122,6 +122,5 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 
 ---
 
-![snake gif](https://github.com/0xGhazy/0xGhazy/blob/output/github-contribution-grid-snake.svg)
+![snake contributions](https://github.com/0xGhazy/0xGhazy/blob/output/github-contribution-grid-snake.svg)
 
-<!-- <img src="https://raw.githubusercontent.com/0xGhazy/0xGhazy/output/snake.svg" alt="Snake animation" /> -->
