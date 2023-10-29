@@ -1,8 +1,4 @@
-<!-- <h2 align="left" style="color:#003B73; display: inline-block; vertical-align: middle;">
-<!--  -->
-
-
-# 0xghazy@github~$ ![test](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=25&vCenter=true&lines=whoami)
+# 0xghazy@github~$ ![whoami typing svg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=25&vCenter=true&lines=whoami)
 
 
 <img align="right" 
@@ -14,13 +10,13 @@
 
 Hello, I'm **Hossam Hamdy**, a passionate and dedicated software engineer with a strong desire to continuously expand my skills and knowledge in the ever-evolving world of technology. My journey in the field of software engineering has been marked by a relentless curiosity and a commitment to delivering high-quality solutions.
 
-**My Expertise**
+### My Expertise
 
 For over 1.5 years, I have been immersed in the world of Zoho development, working with various Zoho applications, including Zoho `CRM`, `Creator`, `People`, `Flow`, and `Billing`. This experience has given me a profound insight into the realm of cloud-based software and has honed my ability to create tailored solutions that cater to specific business needs. Whether it's streamlining customer relationship management, automating workflows, or managing financial operations, I am well-versed in leveraging Zoho's powerful suite of tools to empower businesses. currently i'm a full-time zoho developer @ [Flowtech house]()
 
 During my college years at **BFCAI**, I immersed myself in a range of technical subjects, including Python, data structures, algorithms, object-oriented programming, software design, databases, Java, and a specialized Java Spring track through ITI. This period of my life was marked by a relentless pursuit of knowledge and hands-on experience. I became proficient in Python, understanding its versatile applications. Additionally, I delved into data structures, mastered object-oriented programming, and learned how to design efficient software systems. My studies in databases and Java enabled me to develop enterprise-level applications, and the Java Spring track at ITI deepened my expertise in web application development.
 
-**More About Me**
+### More About Me
 - I am a believer in __`Richard Feynman's`__ quote *" __What I cannot create, I do not understand__ "*, so I'm Interested in learning how things work in depth to form a good understanding and be able to improve and maintain.
 
 - 📖 I love reading books a lot. I read many types of books, technical, novels, religious, as well as social and philosophical.
@@ -38,13 +34,7 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 <!-- Need to create resume and attche it here -->
 <!-- - 📄 Know about my experiences [www.google.com](www.google.com) -->
 
-
-<h2 align="left">
-<span style="color:#003B73; display: inline-block; vertical-align: middle;">
-    0xghazy@github~$ 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=./follow_me.sh" style="display: inline-block; vertical-align: middle;margin-top:10px" alt="Typing SVG" />
-</span>
-</h2>
+# 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=25&vCenter=true&lines=./follow_me.sh)
 
 <div align="center">
 <a href="https://twitter.com/0xGhazy" target="_blank"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
@@ -62,12 +52,7 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 </div>
 
 
-<h2 align="left">
-<span style="color:#003B73; display: inline-block; vertical-align: middle;">
-    0xghazy@github~$ 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=./skills.sh" style="display: inline-block; vertical-align: middle;margin-top:10px" alt="Typing SVG" />
-</span>
-</h2>
+# 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=25&vCenter=true&lines=./skills.sh)
 
 
 <div align="center">
@@ -97,16 +82,10 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-
 </div>
 
+# 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=25&vCenter=true&lines=./my_blog_posts.sh)
 
-<h2 align="left">
-<span style="color:#003B73; display: inline-block; vertical-align: middle;">
-    0xghazy@github~$ 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=./my_blog_posts.sh" style="display: inline-block; vertical-align: middle;margin-top:10px" alt="Typing SVG" />
-</span>
-</h2>
 <!-- BLOG-POST-LIST:START -->
 - [O’Reilly REST API Design Rulebook Notes](https://0xghazy.github.io/notes/o'reilly-rest-api-design-rulebook-notes/)
 - [SQL Notes](https://0xghazy.github.io/notes/sql-cheat-sheet/)
@@ -115,41 +94,24 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 - [Head First Object Oriented analysis &amp;amp; Design Notes](https://0xghazy.github.io/notes/Head-First-Object-Oriented-Analysis-and-Design-Book/)
 <!-- BLOG-POST-LIST:END -->
 
+# 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=25&vCenter=true&lines=./projects_and_activity.sh)
 
-<h2 align="left">
-<span style="color:#003B73; display: inline-block; vertical-align: middle;">
-    0xghazy@github~$ 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=./projects_and_activity.sh" style="display: inline-block; vertical-align: middle;margin-top:10px" alt="Typing SVG" />
-</span>
-</h2>
-<div align="center">
 
 |  Project  |  Overview  |
 | :-------------: | :-------------: |
 | [0xGhazy/PyPass](https://github.com/0xGhazy/PyPass) | A free open source application to keep all your passwords in one safe place with a high level of privacy| 
 | [0xGhazy/Fateh-Framework](https://github.com/0xGhazy/Fateh-Framework) |Fateh-Framework is a simple C2 (Command & Control) tool that attacking windows/Linux machines.|
 | [Taro Team/Kaleem](https://github.com/Taro-Graduation-Project) | Kaleem is a web application that helps deaf people to get involved in the work environment which provides them with the ability to communicate with others in an easy way|
-</div>
 
-<h2 align="left">
-<span style="color:#003B73; display: inline-block; vertical-align: middle;">
-    0xghazy@github~$ 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=grep 'status=complete' books.txt" style="display: inline-block; vertical-align: middle;margin-top:10px" alt="Typing SVG" />
-</span>
-</h2>
+# 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=25&vCenter=true&lines=grep+'status=complete'+books.txt)
+
 
 - [Starting Out with Python 5th Edition - Tony Gaddis](https://www.pearson.com/en-us/subject-catalog/p/starting-out-with-python/P200000003356/9780136912330)
 - [Head First Objects-Oriented Analysis and Design](https://www.amazon.eg/-/en/Head-First-Objects-Oriented-Analysis-Design/dp/0596008678)
 - [Head First Java: A Brain-Friendly Guide 3rd Edition](https://www.amazon.com/Head-First-Java-Brain-Friendly-Guide-dp-1491910771/dp/1491910771/ref=dp_ob_title_bk)
 - [Python Object-Oriented Programming 4th  Edition](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1801077266)
 
-
-<h2 align="left">
-<span style="color:#003B73; display: inline-block; vertical-align: middle;">
-    0xghazy@github~$ 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=./github_stats_and_analysis.sh" style="display: inline-block; vertical-align: middle;margin-top:10px" alt="Typing SVG" />
-</span>
-</h2>
+# 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=25&vCenter=true&lines=./github_stats_and_analysis.sh)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xGhazy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
