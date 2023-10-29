@@ -1,7 +1,7 @@
 <!-- <h2 align="left" style="color:#003B73; display: inline-block; vertical-align: middle;">
     <!-- 0xghazy@github~$ -->
 
-<table border="1">
+<table border="no-border">
     <tr>
         <td>
         <!-- style="color:#003B73; display: inline-block; vertical-align: middle;" 
@@ -11,6 +11,17 @@
         </td>
         <td>
             <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=63&lines=whoami"  alt="whoami typing SVG" />
+        </td>
+    </tr>
+</table>
+
+<table style="border-collapse: collapse;">
+    <tr>
+        <td style="padding: 0;">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=&color=003B73&repeat=false&random=false&width=435&height=63&lines=0xghazy%40github~%24" alt="Typing SVG" />
+        </td>
+        <td style="padding: 0;">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=63&lines=whoami" alt="whoami typing SVG" />
         </td>
     </tr>
 </table>
