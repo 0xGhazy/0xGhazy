@@ -2,7 +2,7 @@
 <!-- 0xghazy@github~$ -->
 
 
-## Meet Our Team ![test](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=25&vCenter=true&lines=whoami)
+# Meet Our Team ![test](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=30&vCenter=true&lines=whoami)
 
 
 <img align="right" 
