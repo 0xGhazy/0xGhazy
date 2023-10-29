@@ -1,7 +1,22 @@
 <!-- <h2 align="left" style="color:#003B73; display: inline-block; vertical-align: middle;">
-    0xghazy@github~$ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=63&lines=whoami" alt="whoami typing SVG" />
-<!-- </h2> -->
+    <!-- 0xghazy@github~$ -->
+
+<table border="1">
+    <tr>
+        <td>
+        <!-- style="color:#003B73; display: inline-block; vertical-align: middle;" 
+        style="color:#003B73; display: inline-block; vertical-align: middle;"
+        -->
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=&color=003B73&repeat=false&random=false&width=435&height=63&lines=0xghazy%40github~%24" alt="Typing SVG" />
+        </td>
+        <td>
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=63&lines=whoami"  alt="whoami typing SVG" />
+        </td>
+    </tr>
+</table>
+
+
+
 
 <img align="right" 
      height="300"
