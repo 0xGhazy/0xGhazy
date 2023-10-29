@@ -2,10 +2,9 @@
 <!--  -->
 
 
-# 0xghazy@github~$ ![test](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=40&lines=whoami)
+# 0xghazy@github~$ ![test](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=25&vCenter=true&lines=whoami)
 
 
-<!-- &vCenter=true -->
 <img align="right" 
      height="300"
      src="https://github.com/0xGhazy/0xGhazy/assets/60070427/50ecd235-cc06-4a9c-af67-488b69d1dd48"
