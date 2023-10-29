@@ -1,61 +1,111 @@
+<h2 align="left">
+  <span style="color:#003B73; display: inline-block; vertical-align: middle;">
+    0xghazy@github~$ 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=whoami" style="display: inline-block; vertical-align: middle;margin-top:8px" alt="Typing SVG" />
+</h2>
 
-![510964-Richard-P-Feynman-Quote-What-I-cannot-create-I-do-not-understand](https://user-images.githubusercontent.com/60070427/187035212-5189553a-cbc8-476f-a220-b8a995d5685b.jpg)
+<img align="right" 
+     height="300"
+     src="https://github.com/0xGhazy/0xGhazy/assets/60070427/50ecd235-cc06-4a9c-af67-488b69d1dd48"
+     alt="hossam hamdy image with thuglife sunglasses"/>
 
-<div align="center" style="font-size:30px">
+<p align="left">
 
-## Hi 👋, I'm Hossam Hamdy (aka 0xGhazy)
+Hello, I'm **Hossam Hamdy**, a passionate and dedicated software engineer with a strong desire to continuously expand my skills and knowledge in the ever-evolving world of technology. My journey in the field of software engineering has been marked by a relentless curiosity and a commitment to delivering high-quality solutions.
 
-### Software Enginner | Content Creator
+**My Expertise**
 
-</div>
+For over 1.5 years, I have been immersed in the world of Zoho development, working with various Zoho applications, including Zoho `CRM`, `Creator`, `People`, `Flow`, and `Billing`. This experience has given me a profound insight into the realm of cloud-based software and has honed my ability to create tailored solutions that cater to specific business needs. Whether it's streamlining customer relationship management, automating workflows, or managing financial operations, I am well-versed in leveraging Zoho's powerful suite of tools to empower businesses. currently i'm a full-time zoho developer @ [Flowtech house]()
 
+During my college years at **BFCAI**, I immersed myself in a range of technical subjects, including Python, data structures, algorithms, object-oriented programming, software design, databases, Java, and a specialized Java Spring track through ITI. This period of my life was marked by a relentless pursuit of knowledge and hands-on experience. I became proficient in Python, understanding its versatile applications. Additionally, I delved into data structures, mastered object-oriented programming, and learned how to design efficient software systems. My studies in databases and Java enabled me to develop enterprise-level applications, and the Java Spring track at ITI deepened my expertise in web application development.
 
+**More About Me**
+- I am a believer in __`Richard Feynman's`__ quote *" __What I cannot create, I do not understand__ "*, so I'm Interested in learning how things work in depth to form a good understanding and be able to improve and maintain.
 
+- 📖 I love reading books a lot. I read many types of books, technical, novels, religious, as well as social and philosophical.
 
-### 0xghazy@git~$ whoami
-Interested in learning how things work in depth to form a good picture of them.
-That is why I find my passion in writing code, learning DSA, OOP, Designs Patterns, and how to write Readable and Maintainable Code.
+- 📖 I’m currently reading **O'Reilly REST API Design Rulebook**
 
-Also, have a passion to learn Cybersecurity and writing technical posts in different categories such as programming, book reviews, HackTheBox writeups, and building Projects.
-<br>
+- 📝 I write articles and share notes about what I have learned on 
 
-### 0xghazy@git~$ ./skills.sh
+- 👨‍💻 My belief is that ***your value in life lies in the extent to which you inspire others***. I blog on my blog [0xGhazy](https://0xghazy.github.io) in an attempt to benefit others and share what is useful with the technical community.
 
-<div align="center">   
-<br>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-<br>
-</div>
+- 💬 Ask me about `Python`, `Java`, `Spring Boot`, `Zoho Creator`, `CRM`, `Flow`, and `People`.
 
-### 0xghazy@git~$ ./follow_me.sh
+- 📫 How to reach me **hhamdypro@gmail.com**
 
-<!-- My Accounts Links -->
-<div align="center"><br>
-
-<a href="https://twitter.com/0xGhazy" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://ar.quora.com/profile/Hossam-Hamdy" target="_blank"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/h0ssamhamdy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://web.facebook.com/0xGhazy" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://github.com/0xGhazy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://0xghazy.wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
-<a href="https://www.youtube.com/c/HossamHamdy0xGhazy" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-
-</div>
+<!-- Need to create resume and attche it here -->
+<!-- - 📄 Know about my experiences [www.google.com](www.google.com) -->
 
 
-### Projects
+<h2 align="left">
+<span style="color:#003B73; display: inline-block; vertical-align: middle;">
+    0xghazy@github~$ 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=./follow_me.sh" style="display: inline-block; vertical-align: middle;margin-top:10px" alt="Typing SVG" />
+</span>
+</h2>
 
 <div align="center">
+<a href="https://twitter.com/0xGhazy" target="_blank"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
+"> </a>
+<a href="https://ar.quora.com/profile/Hossam-Hamdy" target="_blank"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/h0ssamhamdy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://web.facebook.com/0xGhazy" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://github.com/0xGhazy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.youtube.com/c/HossamHamdy0xGhazy" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<br>
+<!-- Followers Counter-->
+<a href="https://github.com/0xGhazy?tab=followers">
+<img src="https://img.shields.io/github/followers/0xGhazy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" >
 
-|  Project                      |  Repository Link                                    | Overview | Status |
-| :-------------:               | :-------------:                                     | :------: | :---:  |
-|  PyPass               | [0xGhazyPyPass](https://github.com/0xGhazy/PyPass) | A free open source application to keep all your passwords in one safe place with a high level of privacy| 🟩 Release |
-|  Fateh-Framework      | [0xGhazy/Fateh-Framework](https://github.com/0xGhazy/Fateh-Framework)| Fateh-Framework is a simple C2 (Command & Control) tool that attacking windows/Linux machines.|🟥 Need Maintenance |
-|  Kaleem      | [Taro Team](https://github.com/Taro-Graduation-Project) | Kaleem is a web application that helps deaf people to get involved in the work environment which provides them with the ability to communicate with others in an easy way| 🟧Working on |
+<img src="https://img.shields.io/youtube/channel/subscribers/UCePX533CZyOpMyGGZqxJtAg?style=for-the-badge">
+</div>
 
-</div><br>
 
-### (0xGhazy Blog) Posts:
+<h2 align="left">
+<span style="color:#003B73; display: inline-block; vertical-align: middle;">
+    0xghazy@github~$ 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=./skills.sh" style="display: inline-block; vertical-align: middle;margin-top:10px" alt="Typing SVG" />
+</span>
+</h2>
+
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  
+  <img src="https://github.com/0xGhazy/0xGhazy/assets/60070427/a52b9d88-ce40-47c1-9327-06bb341cc15d" height="40" alt="zoho-CRM logo"  />
+
+  <img src="https://github.com/0xGhazy/0xGhazy/assets/60070427/13ecc5d6-bdc5-44c3-bf14-1cfcfb47a833" height="40" alt="zoho-flow logo"  />
+    
+  <img src="https://github.com/0xGhazy/0xGhazy/assets/60070427/6d44f612-e9d6-4ce3-9194-6cb781f85a3a" height="40" alt="zoho-creator logo"  />
+
+  <img src="https://github.com/0xGhazy/0xGhazy/assets/60070427/cfdfd5ec-5ef4-4e20-8655-9d81a1e7d6a9" height="40" alt="zoho-people logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+
+</div>
+
+
+<h2 align="left">
+<span style="color:#003B73; display: inline-block; vertical-align: middle;">
+    0xghazy@github~$ 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=./my_blog_posts.sh" style="display: inline-block; vertical-align: middle;margin-top:10px" alt="Typing SVG" />
+</span>
+</h2>
 <!-- BLOG-POST-LIST:START -->
 - [O’Reilly REST API Design Rulebook Notes](https://0xghazy.github.io/notes/o'reilly-rest-api-design-rulebook-notes/)
 - [SQL Notes](https://0xghazy.github.io/notes/sql-cheat-sheet/)
@@ -64,21 +114,49 @@ Also, have a passion to learn Cybersecurity and writing technical posts in diffe
 - [Head First Object Oriented analysis &amp;amp; Design Notes](https://0xghazy.github.io/notes/Head-First-Object-Oriented-Analysis-and-Design-Book/)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
 
-### Github Stats and Analysis
-
-<!-- Github Stats -->
-<p align="center">
-<img width = "60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xGhazy&show_icons=true&theme=tokyonight" /><br>
-<img width = "60%" src="https://github-readme-stats.vercel.app/api?username=0xGhazy&show_icons=true&theme=tokyonight" /><br>
-<img width = "60%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xGhazy&theme=tokyonight" /> <br/>
-
-
-<!-- Followers Counter-->
+<h2 align="left">
+<span style="color:#003B73; display: inline-block; vertical-align: middle;">
+    0xghazy@github~$ 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=./projects_and_activity.sh" style="display: inline-block; vertical-align: middle;margin-top:10px" alt="Typing SVG" />
+</span>
+</h2>
 <div align="center">
-<a href="https://github.com/0xGhazy?tab=followers">
-<img src="https://img.shields.io/github/followers/0xGhazy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" >
-<img src="https://img.shields.io/twitter/follow/0xGhazy?label=Twitter&logo=twitter&style=for-the-badge" />
-<img src="https://img.shields.io/youtube/channel/subscribers/UCePX533CZyOpMyGGZqxJtAg?style=for-the-badge">
+
+|  Project  |  Overview  |
+| :-------------: | :-------------: |
+| [0xGhazy/PyPass](https://github.com/0xGhazy/PyPass) | A free open source application to keep all your passwords in one safe place with a high level of privacy| 
+| [0xGhazy/Fateh-Framework](https://github.com/0xGhazy/Fateh-Framework) |Fateh-Framework is a simple C2 (Command & Control) tool that attacking windows/Linux machines.|
+| [Taro Team/Kaleem](https://github.com/Taro-Graduation-Project) | Kaleem is a web application that helps deaf people to get involved in the work environment which provides them with the ability to communicate with others in an easy way|
 </div>
+
+<h2 align="left">
+<span style="color:#003B73; display: inline-block; vertical-align: middle;">
+    0xghazy@github~$ 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=grep 'status=complete' books.txt" style="display: inline-block; vertical-align: middle;margin-top:10px" alt="Typing SVG" />
+</span>
+</h2>
+
+- [Starting Out with Python 5th Edition - Tony Gaddis](https://www.pearson.com/en-us/subject-catalog/p/starting-out-with-python/P200000003356/9780136912330)
+- [Head First Objects-Oriented Analysis and Design](https://www.amazon.eg/-/en/Head-First-Objects-Oriented-Analysis-Design/dp/0596008678)
+- [Head First Java: A Brain-Friendly Guide 3rd Edition](https://www.amazon.com/Head-First-Java-Brain-Friendly-Guide-dp-1491910771/dp/1491910771/ref=dp_ob_title_bk)
+- [Python Object-Oriented Programming 4th  Edition](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1801077266)
+
+
+<h2 align="left">
+<span style="color:#003B73; display: inline-block; vertical-align: middle;">
+    0xghazy@github~$ 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=./github_stats_and_analysis.sh" style="display: inline-block; vertical-align: middle;margin-top:10px" alt="Typing SVG" />
+</span>
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xGhazy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xGhazy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight&column=9&no-frame=true">
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/0xGhazy/0xGhazy/output/snake.svg" alt="Snake animation" />
