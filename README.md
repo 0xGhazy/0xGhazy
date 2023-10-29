@@ -1,7 +1,7 @@
 <table >
     <tr>
         <td><h2 align="left" style="color:#003B73; display: inline-block; vertical-align: middle;">0xghazy@github~$</h2></td>
-        <td><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=whoami" style="display: inline-block; vertical-align: middle;margin-top:12px;" alt="whoami typing SVG" /></td>
+        <td><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=whoami" style="margin-top:24px;" alt="whoami typing SVG" /></td>
     </tr>
 </table>
 
