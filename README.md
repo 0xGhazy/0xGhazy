@@ -1,7 +1,7 @@
 <h2 align="left">
   <span style="color:#003B73; display: inline-block; vertical-align: middle;">
     0xghazy@github~$ 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=whoami" style="display: inline-block; vertical-align: middle;margin-top:8px" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=whoami" style="display: inline-block; vertical-align: middle;margin-top:5px" alt="whoami typing SVG" />
 </h2>
 
 <img align="right" 
@@ -107,11 +107,13 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 </span>
 </h2>
 <!-- BLOG-POST-LIST:START -->
+
 - [O’Reilly REST API Design Rulebook Notes](https://0xghazy.github.io/notes/o'reilly-rest-api-design-rulebook-notes/)
 - [SQL Notes](https://0xghazy.github.io/notes/sql-cheat-sheet/)
 - [Builder Design Pattern](https://0xghazy.github.io/design%20patterns/Builder-design-pattern/)
 - [Problem Solving Notes](https://0xghazy.github.io/notes/Problem-Solving-Notes/)
 - [Head First Object Oriented analysis &amp;amp; Design Notes](https://0xghazy.github.io/notes/Head-First-Object-Oriented-Analysis-and-Design-Book/)
+
 <!-- BLOG-POST-LIST:END -->
 
 
