@@ -108,13 +108,11 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 </span>
 </h2>
 <!-- BLOG-POST-LIST:START -->
-
 - [O’Reilly REST API Design Rulebook Notes](https://0xghazy.github.io/notes/o'reilly-rest-api-design-rulebook-notes/)
 - [SQL Notes](https://0xghazy.github.io/notes/sql-cheat-sheet/)
 - [Builder Design Pattern](https://0xghazy.github.io/design%20patterns/Builder-design-pattern/)
 - [Problem Solving Notes](https://0xghazy.github.io/notes/Problem-Solving-Notes/)
 - [Head First Object Oriented analysis &amp;amp; Design Notes](https://0xghazy.github.io/notes/Head-First-Object-Oriented-Analysis-and-Design-Book/)
-
 <!-- BLOG-POST-LIST:END -->
 
 
