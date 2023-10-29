@@ -10,7 +10,7 @@
 <img align="right" 
      height="300"
      src="https://github.com/0xGhazy/0xGhazy/assets/60070427/50ecd235-cc06-4a9c-af67-488b69d1dd48"
-     alt="hossam hamdy image with thuglife sunglasses"/>
+     alt="Hossam Hamdy image with thug-life sunglasses"/>
 
 <p align="left">
 
