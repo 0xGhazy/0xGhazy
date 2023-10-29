@@ -1,7 +1,6 @@
-<h2 align="left">
-  <span style="color:#003B73; display: inline-block; vertical-align: middle;">
+<h2 align="left" style="color:#003B73; display: inline-block; vertical-align: middle;">
     0xghazy@github~$ 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=whoami" style="display: inline-block; vertical-align: middle;margin-top:5px" alt="whoami typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=ECF87F&random=false&width=435&height=60&lines=whoami" style="display: inline-block; vertical-align: middle;margin-top:20px" alt="whoami typing SVG" />
 </h2>
 
 <img align="right" 
