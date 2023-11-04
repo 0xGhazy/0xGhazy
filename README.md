@@ -1,4 +1,4 @@
-# 0xghazy@github~$ ![whoami typing svg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=00FF00&random=false&width=435&height=25&vCenter=true&lines=whoami)
+# 0xghazy@github~$ ![whoami typing svg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=whoami)
 
 
 <img align="right" 
@@ -34,7 +34,7 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 <!-- Need to create resume and attche it here -->
 <!-- - 📄 Know about my experiences [www.google.com](www.google.com) -->
 
-# 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=00FF00&random=false&width=435&height=25&vCenter=true&lines=./follow_me.sh)
+# 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=./follow_me.sh)
 
 <div align="center">
 <a href="https://twitter.com/0xGhazy" target="_blank"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
@@ -52,7 +52,7 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 </div>
 
 
-# 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=00FF00&random=false&width=435&height=25&vCenter=true&lines=./skills.sh)
+# 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=./skills.sh)
 
 
 <div align="center">
@@ -84,7 +84,7 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-# 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=00FF00&random=false&width=435&height=25&vCenter=true&lines=./my_blog_posts.sh)
+# 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=./my_blog_posts.sh)
 
 <!-- BLOG-POST-LIST:START -->
 - [O’Reilly REST API Design Rulebook Notes](https://0xghazy.github.io/notes/o'reilly-rest-api-design-rulebook-notes/)
@@ -94,7 +94,7 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 - [Head First Object Oriented analysis &amp;amp; Design Notes](https://0xghazy.github.io/notes/Head-First-Object-Oriented-Analysis-and-Design-Book/)
 <!-- BLOG-POST-LIST:END -->
 
-# 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=00FF00&random=false&width=435&height=25&vCenter=true&lines=./projects_and_activity.sh)
+# 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=./projects_and_activity.sh)
 
 
 |  Project  |  Overview  |
@@ -103,7 +103,7 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 | [0xGhazy/Fateh-Framework](https://github.com/0xGhazy/Fateh-Framework) |Fateh-Framework is a simple C2 (Command & Control) tool that attacking windows/Linux machines.|
 | [Taro Team/Kaleem](https://github.com/Taro-Graduation-Project) | Kaleem is a web application that helps deaf people to get involved in the work environment which provides them with the ability to communicate with others in an easy way|
 
-# 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=00FF00&random=false&width=435&height=25&vCenter=true&lines=grep+'status=complete'+books.txt)
+# 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=grep+'status=complete'+books.txt)
 
 
 - [Starting Out with Python 5th Edition - Tony Gaddis](https://www.pearson.com/en-us/subject-catalog/p/starting-out-with-python/P200000003356/9780136912330)
@@ -111,7 +111,7 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 - [Head First Java: A Brain-Friendly Guide 3rd Edition](https://www.amazon.com/Head-First-Java-Brain-Friendly-Guide-dp-1491910771/dp/1491910771/ref=dp_ob_title_bk)
 - [Python Object-Oriented Programming 4th  Edition](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1801077266)
 
-# 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=00FF00&random=false&width=435&height=25&vCenter=true&lines=./github_stats_and_analysis.sh)
+# 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=./github_stats_and_analysis.sh)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xGhazy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
