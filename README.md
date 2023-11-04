@@ -101,7 +101,8 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 | :-------------: | :-------------: |
 | [0xGhazy/PyPass](https://github.com/0xGhazy/PyPass) | A free open source application to keep all your passwords in one safe place with a high level of privacy| 
 | [0xGhazy/Fateh-Framework](https://github.com/0xGhazy/Fateh-Framework) |Fateh-Framework is a simple C2 (Command & Control) tool that attacking windows/Linux machines.|
-| [Taro Team/Kaleem](https://github.com/Taro-Graduation-Project) | Kaleem is a web application that helps deaf people to get involved in the work environment which provides them with the ability to communicate with others in an easy way|
+| [Taro Team/Kaleem](https://github.com/Taro-Graduation-Project) | Kaleem is a web application that helps deaf people to get involved in the work environment which provides them with the ability to communicate with others in an easy way |
+| [PassGuard-API](https://github.com/0xGhazy/PassGuard-API) | Spring Boot CRUD API that manage user accounts and passwords |
 
 # 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=grep+'status=complete'+books.txt)
 
