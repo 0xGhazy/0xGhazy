@@ -122,6 +122,6 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 
 ###
 
-<img src="https://raw.githubusercontent.com/0xGhazy/0xGhazy/output/snake.svg" alt="snake image">
+<!-- <img src="https://raw.githubusercontent.com/0xGhazy/0xGhazy/output/snake.svg" alt="snake image"> -->
 
 ###
