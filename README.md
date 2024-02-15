@@ -12,7 +12,7 @@ Hello, I'm **Hossam Hamdy**, a passionate and dedicated software engineer with a
 
 ### My Expertise
 
-For over 1.5 years, I have been immersed in the world of Zoho development, working with various Zoho applications, including Zoho `CRM`, `Creator`, `People`, `Flow`, and `Billing`. This experience has given me a profound insight into the realm of cloud-based software and has honed my ability to create tailored solutions that cater to specific business needs. Whether it's streamlining customer relationship management, automating workflows, or managing financial operations, I am well-versed in leveraging Zoho's powerful suite of tools to empower businesses. currently i'm a full-time zoho developer @[Flowtech house](https://www.linkedin.com/company/flowtech-house/)
+For over 1.5 years, I have been immersed in the world of Zoho development, working with various Zoho applications, including Zoho' CRM`, `Creator`, `People`, `Flow`, and `Billing`. This experience has given me a profound insight into the realm of cloud-based software and has honed my ability to create tailored solutions that cater to specific business needs. Whether it's streamlining customer relationship management, automating workflows, or managing financial operations, I am well-versed in leveraging Zoho's powerful suite of tools to empower businesses. currently I'm a full-time zoho developer @**OneTeam+**
 
 During my college years at **BFCAI**, I immersed myself in a range of technical subjects, including Python, data structures, algorithms, object-oriented programming, software design, databases, Java, and a specialized Java Spring track through ITI. This period of my life was marked by a relentless pursuit of knowledge and hands-on experience. I became proficient in Python, understanding its versatile applications. Additionally, I delved into data structures, mastered object-oriented programming, and learned how to design efficient software systems. My studies in databases and Java enabled me to develop enterprise-level applications, and the Java Spring track at ITI deepened my expertise in web application development.
 
@@ -31,7 +31,7 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 
 - 📫 How to reach me **hhamdypro@gmail.com**
 
-<!-- Need to create resume and attche it here -->
+<!-- Need to create a resume and attach it here -->
 <!-- - 📄 Know about my experiences [www.google.com](www.google.com) -->
 
 # 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=./follow_me.sh)
@@ -99,10 +99,10 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 
 |  Project  |  Overview  |
 | :-------------: | :-------------: |
-| [0xGhazy/PyPass](https://github.com/0xGhazy/PyPass) | A free open source application to keep all your passwords in one safe place with a high level of privacy| 
+| [0xGhazy/PyPass](https://github.com/0xGhazy/PyPass) | A free open-source application to keep all your passwords in one safe place with a high level of privacy| 
 | [0xGhazy/Fateh-Framework](https://github.com/0xGhazy/Fateh-Framework) |Fateh-Framework is a simple C2 (Command & Control) tool that attacking windows/Linux machines.|
-| [Taro Team/Kaleem](https://github.com/Taro-Graduation-Project) | Kaleem is a web application that helps deaf people to get involved in the work environment which provides them with the ability to communicate with others in an easy way |
-| [PassGuard-API](https://github.com/0xGhazy/PassGuard-API) | Spring Boot CRUD API that manage user accounts and passwords |
+| [Taro Team/Kaleem](https://github.com/Taro-Graduation-Project) | Kaleem is a web application that helps deaf people to get involved in the work environment which provides them with the ability to communicate with others easily |
+| [PassGuard-API](https://github.com/0xGhazy/PassGuard-API) | Spring Boot CRUD API that manages user accounts and passwords |
 
 # 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=grep+'status=complete'+books.txt)
 
