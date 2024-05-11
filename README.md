@@ -1,6 +1,5 @@
 # 0xghazy@github~$ ![whoami typing svg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=whoami)
 
-
 <img align="right" 
      height="300"
      src="https://github.com/0xGhazy/0xGhazy/assets/60070427/50ecd235-cc06-4a9c-af67-488b69d1dd48"
@@ -17,15 +16,16 @@ For over 1.5 years, I have been immersed in the world of Zoho development, worki
 During my college years at **BFCAI**, I immersed myself in a range of technical subjects, including Python, data structures, algorithms, object-oriented programming, software design, databases, Java, and a specialized Java Spring track through ITI. This period of my life was marked by a relentless pursuit of knowledge and hands-on experience. I became proficient in Python, understanding its versatile applications. Additionally, I delved into data structures, mastered object-oriented programming, and learned how to design efficient software systems. My studies in databases and Java enabled me to develop enterprise-level applications, and the Java Spring track at ITI deepened my expertise in web application development.
 
 ### More About Me
-- I am a believer in __`Richard Feynman's`__ quote *" __What I cannot create, I do not understand__ "*, so I'm Interested in learning how things work in depth to form a good understanding and be able to improve and maintain.
+
+- I am a believer in **`Richard Feynman's`** quote _" **What I cannot create, I do not understand** "_, so I'm Interested in learning how things work in depth to form a good understanding and be able to improve and maintain.
 
 - 📖 I love reading books a lot. I read many types of books, technical, novels, religious, as well as social and philosophical.
 
 - 📖 I’m currently reading **O'Reilly REST API Design Rulebook**
 
-- 📝 I write articles and share notes about what I have learned on 
+- 📝 I write articles and share notes about what I have learned on
 
-- 👨‍💻 My belief is that ***your value in life lies in the extent to which you inspire others***. I blog on my blog [0xGhazy](https://0xghazy.github.io) in an attempt to benefit others and share what is useful with the technical community.
+- 👨‍💻 My belief is that **_your value in life lies in the extent to which you inspire others_**. I blog on my blog [0xGhazy](https://0xghazy.github.io) in an attempt to benefit others and share what is useful with the technical community.
 
 - 💬 Ask me about `Python`, `Java`, `Spring Boot`, `Zoho Creator`, `CRM`, `Flow`, and `People`.
 
@@ -51,9 +51,7 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 <img src="https://img.shields.io/youtube/channel/subscribers/UCePX533CZyOpMyGGZqxJtAg?style=for-the-badge">
 </div>
 
-
 # 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=./skills.sh)
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -87,6 +85,7 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 # 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=./my_blog_posts.sh)
 
 <!-- BLOG-POST-LIST:START -->
+
 - [MySQL Cheatsheet](https://0xghazy.github.io/notes/MySQL-notes/)
 - [Hossam Hamdy in 2023](https://0xghazy.github.io/life/Hossam_Hamdy_in_2023/)
 - [O’Reilly REST API Design Rulebook Notes](https://0xghazy.github.io/notes/o'reilly-rest-api-design-rulebook-notes/)
@@ -96,21 +95,19 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 
 # 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=./projects_and_activity.sh)
 
-
-|  Project  |  Overview  |
-| :-------------: | :-------------: |
-| [0xGhazy/PyPass](https://github.com/0xGhazy/PyPass) | A free open-source application to keep all your passwords in one safe place with a high level of privacy| 
-| [0xGhazy/Fateh-Framework](https://github.com/0xGhazy/Fateh-Framework) |Fateh-Framework is a simple C2 (Command & Control) tool that attacking windows/Linux machines.|
-| [Taro Team/Kaleem](https://github.com/Taro-Graduation-Project) | Kaleem is a web application that helps deaf people to get involved in the work environment which provides them with the ability to communicate with others easily |
-| [PassGuard-API](https://github.com/0xGhazy/PassGuard-API) | Spring Boot CRUD API that manages user accounts and passwords |
+|                                Project                                |                                                                             Overview                                                                              |
+| :-------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|          [0xGhazy/PyPass](https://github.com/0xGhazy/PyPass)          |                             A free open-source application to keep all your passwords in one safe place with a high level of privacy                              |
+| [0xGhazy/Fateh-Framework](https://github.com/0xGhazy/Fateh-Framework) |                                  Fateh-Framework is a simple C2 (Command & Control) tool that attacking windows/Linux machines.                                   |
+|    [Taro Team/Kaleem](https://github.com/Taro-Graduation-Project)     | Kaleem is a web application that helps deaf people to get involved in the work environment which provides them with the ability to communicate with others easily |
+|       [PassGuard-API](https://github.com/0xGhazy/PassGuard-API)       |                                                   Spring Boot CRUD API that manages user accounts and passwords                                                   |
 
 # 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=grep+'status=complete'+books.txt)
-
 
 - [Starting Out with Python 5th Edition - Tony Gaddis](https://www.pearson.com/en-us/subject-catalog/p/starting-out-with-python/P200000003356/9780136912330)
 - [Head First Objects-Oriented Analysis and Design](https://www.amazon.eg/-/en/Head-First-Objects-Oriented-Analysis-Design/dp/0596008678)
 - [Head First Java: A Brain-Friendly Guide 3rd Edition](https://www.amazon.com/Head-First-Java-Brain-Friendly-Guide-dp-1491910771/dp/1491910771/ref=dp_ob_title_bk)
-- [Python Object-Oriented Programming 4th  Edition](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1801077266)
+- [Python Object-Oriented Programming 4th Edition](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1801077266)
 
 # 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=./github_stats_and_analysis.sh)
 
@@ -120,9 +117,5 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight&column=9&no-frame=true">
 </div>
-
-###
-
-<!-- <img src="https://raw.githubusercontent.com/0xGhazy/0xGhazy/output/snake.svg" alt="snake image"> -->
 
 ###
