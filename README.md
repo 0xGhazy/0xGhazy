@@ -1,5 +1,6 @@
 # 0xghazy@github~$ ![whoami typing svg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=whoami)
 
+
 <img align="right" 
      height="300"
      src="https://github.com/0xGhazy/0xGhazy/assets/60070427/50ecd235-cc06-4a9c-af67-488b69d1dd48"
@@ -11,7 +12,7 @@ Hello, I'm **Hossam Hamdy**, a passionate and dedicated software engineer with a
 
 ### My Expertise
 
-For over 1.5 years, I have been immersed in the world of Zoho development, working with various Zoho applications, including Zoho `CRM`, `Creator`, `People`, `Flow`, and `Billing`. This experience has given me a profound insight into the realm of cloud-based software and has honed my ability to create tailored solutions that cater to specific business needs. Whether it's streamlining customer relationship management, automating workflows, or managing financial operations, I am well-versed in leveraging Zoho's powerful suite of tools to empower businesses. currently I'm a full-time zoho developer @**OneTeam+**
+For over 1.5 years, I have been immersed in the world of Zoho development, working with various Zoho applications, including Zoho`CRM`, `Creator`, `People`, `Flow`, and `Billing`. This experience has given me a profound insight into the realm of cloud-based software and has honed my ability to create tailored solutions that cater to specific business needs. Whether it's streamlining customer relationship management, automating workflows, or managing financial operations, I am well-versed in leveraging Zoho's powerful suite of tools to empower businesses. currently, I'm a full-time Zoho developer @**OneTeam+**
 
 During my college years at **BFCAI**, I immersed myself in a range of technical subjects, including Python, data structures, algorithms, object-oriented programming, software design, databases, Java, and a specialized Java Spring track through ITI. This period of my life was marked by a relentless pursuit of knowledge and hands-on experience. I became proficient in Python, understanding its versatile applications. Additionally, I delved into data structures, mastered object-oriented programming, and learned how to design efficient software systems. My studies in databases and Java enabled me to develop enterprise-level applications, and the Java Spring track at ITI deepened my expertise in web application development.
 
@@ -90,7 +91,7 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 - [Hossam Hamdy in 2023](https://0xghazy.github.io/life/Hossam_Hamdy_in_2023/)
 - [O’Reilly REST API Design Rulebook Notes](https://0xghazy.github.io/notes/o'reilly-rest-api-design-rulebook-notes/)
 - [Builder Design Pattern](https://0xghazy.github.io/design%20patterns/Builder-design-pattern/)
-- [Head First Object Oriented analysis &amp;amp; Design Notes](https://0xghazy.github.io/notes/Head-First-Object-Oriented-Analysis-and-Design-Book/)
+- [Head First Object Oriented Analysis &amp;amp; Design Notes](https://0xghazy.github.io/notes/Head-First-Object-Oriented-Analysis-and-Design-Book/)
 <!-- BLOG-POST-LIST:END -->
 
 # 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=./projects_and_activity.sh)
