@@ -86,11 +86,11 @@ During my college years at **BFCAI**, I immersed myself in a range of technical 
 # 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=./my_blog_posts.sh)
 
 <!-- BLOG-POST-LIST:START -->
+- [Clean Code Summary](https://0xghazy.github.io/summaries/clean-code/)
 - [MySQL Cheat sheet](https://0xghazy.github.io/summaries/MySQL-notes/)
 - [Hossam Hamdy in 2023](https://0xghazy.github.io/hossam.log/Hossam-Hamdy-in-2023/)
 - [O’Reilly REST API Design Rulebook Notes](https://0xghazy.github.io/summaries/o'reilly-rest-api-design-rulebook-notes/)
 - [Builder Design Pattern](https://0xghazy.github.io/blog/Builder-design-pattern/)
-- [Head First Object-Oriented Analysis &amp;amp; Design Summary](https://0xghazy.github.io/summaries/Head-First-Object-Oriented-Analysis-and-Design-Book/)
 <!-- BLOG-POST-LIST:END -->
 
 # 0xghazy@github~$ ![21211](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=2FC02F&random=false&width=435&height=25&vCenter=true&lines=./projects_and_activity.sh)
