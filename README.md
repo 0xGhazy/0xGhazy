@@ -47,14 +47,14 @@ Technologies I work with:
 
 ## 📕 Latest YouTube Videos 
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=g_HfTeTvPyc"><img width="140px" src="http://img.youtube.com/vi/g_HfTeTvPyc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=g_HfTeTvPyc">02 - REST API Design in Arabic | A Brief History of W3</a><br/>Mar 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=GbRbm8wJqk8"><img width="140px" src="http://img.youtube.com/vi/GbRbm8wJqk8/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GbRbm8wJqk8">01 - REST API Design in Arabic | Motivation</a><br/>Mar 15, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=hpg49tz7vC4"><img width="140px" src="http://img.youtube.com/vi/hpg49tz7vC4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hpg49tz7vC4">Chapter 05 | Starting out with Python 5th edition | Arabic</a><br/>Dec 16, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FoAkl1vKIdo"><img width="140px" src="http://img.youtube.com/vi/FoAkl1vKIdo/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FoAkl1vKIdo">Lecture 06 | Computer Security | BFCAI</a><br/>Jun 17, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=TmfNmRB1Rds"><img width="140px" src="http://img.youtube.com/vi/TmfNmRB1Rds/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=TmfNmRB1Rds">Lecture 05 | Computer Security | BFCAI</a><br/>Jun 17, 2022</td></tr></table>
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->
+<ul><li>[02 - REST API Design in Arabic | A Brief History of W3](https://www.youtube.com/watch?v=g_HfTeTvPyc)<li>
+</ul>
+<ul><li>[01 - REST API Design in Arabic | Motivation](https://www.youtube.com/watch?v=GbRbm8wJqk8)<li>
+</ul>
+<ul><li>[Chapter 05 | Starting out with Python 5th edition | Arabic](https://www.youtube.com/watch?v=hpg49tz7vC4)<li>
+</ul>
+<ul><li>[Lecture 06 | Computer Security | BFCAI](https://www.youtube.com/watch?v=FoAkl1vKIdo)<li>
+</ul>
+<ul><li>[Lecture 05 | Computer Security | BFCAI](https://www.youtube.com/watch?v=TmfNmRB1Rds)<li>
+</ul><!-- YOUTUBE:END -->
