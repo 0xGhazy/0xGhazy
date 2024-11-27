@@ -26,5 +26,5 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCePX533CZyOpMyGGZqxJtAg"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
-          template: '$newline<ul><li>[$title]($url)<li>$newline</ul>'
+          template: '$newline<ul><li><a href="$url">$title</a><li></ul>$newline'
           committer_email: "hhamdypro@gmail.com"
