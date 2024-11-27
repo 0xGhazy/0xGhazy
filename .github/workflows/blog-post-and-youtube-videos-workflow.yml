@@ -25,5 +25,5 @@ jobs:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCePX533CZyOpMyGGZqxJtAg"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          template: '<li><a href="$url" target="_blank">$title</a><li>'
+          template: '<li><a href="$url" target="_blank">$title</a></li>'
           committer_email: "hhamdypro@gmail.com"
