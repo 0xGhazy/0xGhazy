@@ -38,6 +38,11 @@ Technologies I work with:
 - [Hossam Hamdy in 2023](https://0xghazy.github.io/hossam.log/Hossam-Hamdy-in-2023/)
 - [O’Reilly REST API Design Rulebook Notes](https://0xghazy.github.io/summaries/o'reilly-rest-api-design-rulebook-notes/)
 - [Builder Design Pattern](https://0xghazy.github.io/blog/Builder-design-pattern/)
+- [Head First Object-Oriented Analysis &amp;amp; Design Summary](https://0xghazy.github.io/summaries/Head-First-Object-Oriented-Analysis-and-Design-Book/)
+- [Web token based authentication with JWT](https://0xghazy.github.io/blog/Authentication-with-JavaScript-Web-Tokens-(JWTs)/)
+- [Creating Simple REST APIv3 Using Python Flask, SQLite3, and Postman](https://0xghazy.github.io/blog/Creating-Simple-API-Using-Python-Flask/)
+- [Singleton Design Pattern](https://0xghazy.github.io/blog/Singleton-design-pattern/)
+- [Git And GitHub kickstart](https://0xghazy.github.io/blog/Git-and-GitHub-kickstart/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📕 Latest YouTube Videos 
