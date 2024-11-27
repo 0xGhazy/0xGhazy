@@ -40,3 +40,7 @@ Technologies I work with:
 - [Builder Design Pattern](https://0xghazy.github.io/blog/Builder-design-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
+## 📕 Latest YouTube Videos 
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
