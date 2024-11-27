@@ -47,4 +47,6 @@ Technologies I work with:
 
 ## 📕 Latest YouTube Videos 
 
-<!-- YOUTUBE:START --><ul><li><a href="https://www.youtube.com/watch?v=g_HfTeTvPyc">02 - REST API Design in Arabic | A Brief History of W3</a><li></ul><ul><li><a href="https://www.youtube.com/watch?v=GbRbm8wJqk8">01 - REST API Design in Arabic | Motivation</a><li></ul><ul><li><a href="https://www.youtube.com/watch?v=hpg49tz7vC4">Chapter 05 | Starting out with Python 5th edition | Arabic</a><li></ul><ul><li><a href="https://www.youtube.com/watch?v=FoAkl1vKIdo">Lecture 06 | Computer Security | BFCAI</a><li></ul><ul><li><a href="https://www.youtube.com/watch?v=TmfNmRB1Rds">Lecture 05 | Computer Security | BFCAI</a><li></ul><!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
