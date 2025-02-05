@@ -34,6 +34,7 @@ Technologies I work with:
 
 <!-- BLOG-POST-LIST:START -->
 - [Hossam Hamdy in 2023](https://0xghazy.github.io/posts/hossam-in-2023/)
+- [Git and Github kickstart](https://0xghazy.github.io/posts/Git-and-GitHub-kickstart/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎥 Latest YouTube Videos 
