@@ -34,6 +34,7 @@ Technologies I work with:
 
 <!-- BLOG-POST-LIST:START -->
 - [Hossam Hamdy in 2023](https://0xghazy.github.io/posts/hossam-in-2023/)
+- [Head First Object-Oriented Analysis &amp; Design Summary](https://0xghazy.github.io/posts/head-first-object-oriented-analysis-and-design/)
 - [Singleton Design Pattern](https://0xghazy.github.io/posts/singleton-design-pattern/)
 - [Git and Github kickstart](https://0xghazy.github.io/posts/Git-and-GitHub-kickstart/)
 <!-- BLOG-POST-LIST:END -->
