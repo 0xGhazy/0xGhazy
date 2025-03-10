@@ -35,8 +35,9 @@ Technologies I work with:
 <!-- BLOG-POST-LIST:START -->
 - [Hossam Hamdy in 2023](https://0xghazy.github.io/posts/hossam-in-2023/)
 - [Head First Object-Oriented Analysis &amp; Design Summary](https://0xghazy.github.io/posts/head-first-object-oriented-analysis-and-design/)
+- [Web token based authentication with JWT](https://0xghazy.github.io/posts/authentication-with-javascript-web-tokens/)
+- [Creating Simple REST API Using Python Flask, SQLite3, and Postman](https://0xghazy.github.io/posts/simple-api-using-flask-and-sqlite3/)
 - [Singleton Design Pattern](https://0xghazy.github.io/posts/singleton-design-pattern/)
-- [Git and Github kickstart](https://0xghazy.github.io/posts/Git-and-GitHub-kickstart/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎥 Latest YouTube Videos 
