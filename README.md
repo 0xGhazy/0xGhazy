@@ -39,3 +39,17 @@ This mindset pushes me to break things down, rebuild them better, and deeply und
 - [Web token based authentication with JWT](https://0xghazy.github.io/posts/authentication-with-javascript-web-tokens/)
 - [Creating Simple REST API Using Python Flask, SQLite3, and Postman](https://0xghazy.github.io/posts/simple-api-using-flask-and-sqlite3/)
 <!-- BLOG-POST-LIST:END -->
+
+
+<!-- Banner 
+![banner](https://capsule-render.vercel.app/api?type=waving&color=16c60c&height=180&section=header&text=Hossam%20Hamdy%20(0xGhazy)&fontSize=40&fontColor=ffffff) -->
+
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xGhazy&label=Profile%20Views&color=2fc02f&style=flat-square" />
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xGhazy&theme=tokyo-night&area=true&hide_border=true" />
+  </a>
+</p>
