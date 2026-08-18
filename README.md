@@ -33,11 +33,11 @@ This mindset pushes me to break things down, rebuild them better, and deeply und
 ## 📕 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Lessons from 2025: Career Mistakes, Over-Engineering, and AI Reliance](https://0xghazy.github.io/posts/lessons-from-2025/)
 - [Mastering Multi-Tenancy Architecture in Spring Boot](https://0xghazy.github.io/posts/multi-tenant-architecture-in-spring-boot/)
 - [Hossam Hamdy in 2023](https://0xghazy.github.io/posts/hossam-in-2023/)
 - [Head First Object-Oriented Analysis &amp; Design Summary](https://0xghazy.github.io/posts/head-first-object-oriented-analysis-and-design/)
 - [Web token based authentication with JWT](https://0xghazy.github.io/posts/authentication-with-javascript-web-tokens/)
-- [Creating Simple REST API Using Python Flask, SQLite3, and Postman](https://0xghazy.github.io/posts/simple-api-using-flask-and-sqlite3/)
 <!-- BLOG-POST-LIST:END -->
 
 
